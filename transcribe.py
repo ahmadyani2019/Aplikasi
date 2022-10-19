@@ -1,6 +1,5 @@
 # Modul yang digunakan ------------------------------------------------------------
 
-from email.mime import audio
 import streamlit as st
 import requests
 import speech_recognition as sr
