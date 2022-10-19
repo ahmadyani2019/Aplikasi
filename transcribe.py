@@ -2,12 +2,7 @@
 
 from email.mime import audio
 import streamlit as st
-from pytube import YouTube
-import os
-import sys
-import time
 import requests
-from zipfile import ZipFile
 import speech_recognition as sr
 
 # Judul program ------------------------------------------------------------
